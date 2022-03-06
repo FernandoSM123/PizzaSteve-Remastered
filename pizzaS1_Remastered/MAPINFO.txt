@@ -1,0 +1,359 @@
+episode PIZR01{
+name = "Pizza Steve"
+}
+
+
+map PIZR01 "One"
+	{
+	next = "PIZR02"
+	sky1 = RSKY1
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_runnin
+	nocrouch
+	nojump
+	}
+	
+map PIZR02 "Two"
+	{
+	next = "PIZR03"
+	sky1 = RSKY1
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_stalks
+	nocrouch
+	nojump
+	}
+	
+map PIZR03 "Three"
+	{
+	next = "PIZR04"
+	sky1 = RSKY1
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_countd
+	nocrouch
+	nojump
+	}
+	
+map PIZR04 "Four"
+	{
+	next = "PIZR05"
+	sky1 = RSKY1
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_betwee
+	nocrouch
+	nojump
+	}
+	
+map PIZR05 "Five"
+	{
+	next = "PIZR06"
+	sky1 = RSKY1
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_doom
+	nocrouch
+	nojump
+	}
+	
+map PIZR06 "Six"
+	{
+	next = "PIZR07"
+	sky1 = RSKY1
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_the_da
+	nocrouch
+	nojump
+	}
+	
+map PIZR07 "Seven"
+	{
+	next = "PIZR08"
+	map07special
+	sky1 = RSKY1
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_shawn	
+	nocrouch
+	nojump
+	}
+	
+map PIZR08 "Eight"
+	{
+	next = "PIZR09"
+	sky1 = RSKY1
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_ddtblu
+	nocrouch
+	nojump
+	}
+	
+map PIZR09 "Nine"
+	{
+	next = "PIZR10"
+	sky1 = RSKY1
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_in_cit
+	nocrouch
+	nojump
+	}
+	
+map PIZR10 "Ten"
+	{
+	next = "PIZR11"
+	sky1 = RSKY1
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_dead	
+	nocrouch
+	nojump
+	}
+	
+map PIZR11 "Eleven"
+	{
+	next = "PIZR12"
+	sky1 = RSKY1
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_stlks2
+	nocrouch
+	nojump
+	}
+	
+map PIZR12 "Twelve"
+	{
+	next = "PIZR13"
+	sky1 = RSKY2
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_theda2
+	nocrouch
+	nojump
+	}
+	
+map PIZR13 "Thirteen"
+	{
+	next = "PIZR14"
+	sky1 = RSKY2
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_doom2
+	nocrouch
+	nojump
+	}
+	
+map PIZR14 "Fourteen"
+	{
+	next = "PIZR15"
+	sky1 = RSKY2
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_ddtbl2
+	nocrouch
+	nojump
+	}
+	
+map PIZR15 "Fifthteen"
+	{
+	next = "PIZR16"
+	secretnext = "PIZR31"
+	sky1 = RSKY2
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_runni2
+	nocrouch
+	nojump
+	}
+	
+map PIZR16 "Sixteen"
+	{
+	next = "PIZR17"
+	sky1 = RSKY2
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_dead2
+	nocrouch
+	nojump
+	}
+	
+map PIZR17 "Seventeen"
+	{
+	next = "PIZR18"
+	sky1 = RSKY2
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_stlks3
+	nocrouch
+	nojump
+	}
+	
+map PIZR18 "Eighteen"
+	{
+	next = "PIZR19"
+	sky1 = RSKY2
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_romero
+	nocrouch
+	nojump
+	}
+	
+map PIZR19 "Nineteen"
+	{
+	next = "PIZR20"
+	sky1 = RSKY2
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_shawn2
+	nocrouch
+	nojump
+	}
+	
+map PIZR20 "Twenty"
+	{
+	next = "PIZR21"
+	sky1 = RSKY3
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_messag
+	nocrouch
+	nojump
+	}
+	
+map PIZR21 "Twenty-One"
+	{
+	next = "PIZR22"
+	sky1 = RSKY3
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_count2
+	nocrouch
+	nojump
+	}
+	
+map PIZR22 "Twenty-Two"
+	{
+	next = "PIZR23"
+	sky1 = RSKY3
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_ddtbl3
+	nocrouch
+	nojump
+	}
+	
+map PIZR23 "Twenty-Three"
+	{
+	next = "PIZR24"
+	sky1 = RSKY3
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_ampie
+	nocrouch
+	nojump
+	}
+	
+map PIZR24 "Twenty-Four"
+	{
+	next = "PIZR25"
+	sky1 = RSKY3
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_theda3
+	nocrouch
+	nojump
+	}
+	
+map PIZR25 "Twenty-Five"
+	{
+	next = "PIZR26"
+	sky1 = RSKY3
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_adrian
+	nocrouch
+	nojump
+	}
+	
+map PIZR26 "Twenty-Six"
+	{
+	next = "PIZR27"
+	sky1 = RSKY3
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_messg2
+	nocrouch
+	nojump
+	}
+	
+map PIZR27 "Twenty-Seven"
+	{
+	next = "PIZR28"
+	sky1 = RSKY3
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_romer2
+	nocrouch
+	nojump
+	}
+	
+map PIZR28 "Twenty-Eight"
+	{
+	next = "PIZR29"
+	sky1 = RSKY3
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_tense
+	nocrouch
+	nojump
+	}
+	
+map PIZR29 "Twenty-Nine"
+	{
+	next = "PIZR30"
+	sky1 = RSKY3
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_shawn3
+	nocrouch
+	nojump
+	}
+	
+map PIZR30 "Thirty"
+	{
+	sky1 = RSKY3
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_openin
+	nocrouch
+	nojump
+    SuckTime = 1337
+	}
+	
+map PIZR31 "Secret One"
+	{
+	next = "PIZR16"
+	secretnext = "PIZR32"
+	sky1 = RSKY3
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_evil
+	nocrouch
+	nojump
+	}
+	
+map PIZR32 "Secret Two"
+	{
+	next = "PIZR16"
+	sky1 = RSKY3
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_ultima
+	nocrouch
+	nojump
+	}
