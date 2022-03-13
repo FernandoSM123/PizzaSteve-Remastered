@@ -10,8 +10,6 @@ map PIZR01 "One"
 	enterpic = INTERPIC
 	exitpic = INTERPIC
 	music = d_runnin
-	nocrouch
-	nojump
 	}
 	
 map PIZR02 "Two"
@@ -21,8 +19,6 @@ map PIZR02 "Two"
 	enterpic = INTERPIC
 	exitpic = INTERPIC
 	music = d_stalks
-	nocrouch
-	nojump
 	}
 	
 map PIZR03 "Three"
@@ -32,8 +28,6 @@ map PIZR03 "Three"
 	enterpic = INTERPIC
 	exitpic = INTERPIC
 	music = d_countd
-	nocrouch
-	nojump
 	}
 	
 map PIZR04 "Four"
@@ -43,8 +37,6 @@ map PIZR04 "Four"
 	enterpic = INTERPIC
 	exitpic = INTERPIC
 	music = d_betwee
-	nocrouch
-	nojump
 	}
 	
 map PIZR05 "Five"
@@ -54,8 +46,6 @@ map PIZR05 "Five"
 	enterpic = INTERPIC
 	exitpic = INTERPIC
 	music = d_doom
-	nocrouch
-	nojump
 	}
 	
 map PIZR06 "Six"
@@ -65,8 +55,6 @@ map PIZR06 "Six"
 	enterpic = INTERPIC
 	exitpic = INTERPIC
 	music = d_the_da
-	nocrouch
-	nojump
 	}
 	
 map PIZR07 "Seven"
@@ -77,8 +65,6 @@ map PIZR07 "Seven"
 	enterpic = INTERPIC
 	exitpic = INTERPIC
 	music = d_shawn	
-	nocrouch
-	nojump
 	}
 	
 map PIZR08 "Eight"
@@ -88,8 +74,6 @@ map PIZR08 "Eight"
 	enterpic = INTERPIC
 	exitpic = INTERPIC
 	music = d_ddtblu
-	nocrouch
-	nojump
 	}
 	
 map PIZR09 "Nine"
@@ -99,8 +83,6 @@ map PIZR09 "Nine"
 	enterpic = INTERPIC
 	exitpic = INTERPIC
 	music = d_in_cit
-	nocrouch
-	nojump
 	}
 	
 map PIZR10 "Ten"
@@ -110,8 +92,6 @@ map PIZR10 "Ten"
 	enterpic = INTERPIC
 	exitpic = INTERPIC
 	music = d_dead	
-	nocrouch
-	nojump
 	}
 	
 map PIZR11 "Eleven"
@@ -121,8 +101,6 @@ map PIZR11 "Eleven"
 	enterpic = INTERPIC
 	exitpic = INTERPIC
 	music = d_stlks2
-	nocrouch
-	nojump
 	}
 	
 map PIZR12 "Twelve"
@@ -132,8 +110,6 @@ map PIZR12 "Twelve"
 	enterpic = INTERPIC
 	exitpic = INTERPIC
 	music = d_theda2
-	nocrouch
-	nojump
 	}
 	
 map PIZR13 "Thirteen"
@@ -143,8 +119,6 @@ map PIZR13 "Thirteen"
 	enterpic = INTERPIC
 	exitpic = INTERPIC
 	music = d_doom2
-	nocrouch
-	nojump
 	}
 	
 map PIZR14 "Fourteen"
@@ -154,8 +128,6 @@ map PIZR14 "Fourteen"
 	enterpic = INTERPIC
 	exitpic = INTERPIC
 	music = d_ddtbl2
-	nocrouch
-	nojump
 	}
 	
 map PIZR15 "Fifthteen"
@@ -166,8 +138,6 @@ map PIZR15 "Fifthteen"
 	enterpic = INTERPIC
 	exitpic = INTERPIC
 	music = d_runni2
-	nocrouch
-	nojump
 	}
 	
 map PIZR16 "Sixteen"
@@ -177,8 +147,6 @@ map PIZR16 "Sixteen"
 	enterpic = INTERPIC
 	exitpic = INTERPIC
 	music = d_dead2
-	nocrouch
-	nojump
 	}
 	
 map PIZR17 "Seventeen"
@@ -188,8 +156,6 @@ map PIZR17 "Seventeen"
 	enterpic = INTERPIC
 	exitpic = INTERPIC
 	music = d_stlks3
-	nocrouch
-	nojump
 	}
 	
 map PIZR18 "Eighteen"
@@ -199,8 +165,6 @@ map PIZR18 "Eighteen"
 	enterpic = INTERPIC
 	exitpic = INTERPIC
 	music = d_romero
-	nocrouch
-	nojump
 	}
 	
 map PIZR19 "Nineteen"
@@ -210,8 +174,6 @@ map PIZR19 "Nineteen"
 	enterpic = INTERPIC
 	exitpic = INTERPIC
 	music = d_shawn2
-	nocrouch
-	nojump
 	}
 	
 map PIZR20 "Twenty"
@@ -221,8 +183,6 @@ map PIZR20 "Twenty"
 	enterpic = INTERPIC
 	exitpic = INTERPIC
 	music = d_messag
-	nocrouch
-	nojump
 	}
 	
 map PIZR21 "Twenty-One"
@@ -232,8 +192,6 @@ map PIZR21 "Twenty-One"
 	enterpic = INTERPIC
 	exitpic = INTERPIC
 	music = d_count2
-	nocrouch
-	nojump
 	}
 	
 map PIZR22 "Twenty-Two"
@@ -243,8 +201,6 @@ map PIZR22 "Twenty-Two"
 	enterpic = INTERPIC
 	exitpic = INTERPIC
 	music = d_ddtbl3
-	nocrouch
-	nojump
 	}
 	
 map PIZR23 "Twenty-Three"
@@ -254,8 +210,6 @@ map PIZR23 "Twenty-Three"
 	enterpic = INTERPIC
 	exitpic = INTERPIC
 	music = d_ampie
-	nocrouch
-	nojump
 	}
 	
 map PIZR24 "Twenty-Four"
@@ -265,8 +219,6 @@ map PIZR24 "Twenty-Four"
 	enterpic = INTERPIC
 	exitpic = INTERPIC
 	music = d_theda3
-	nocrouch
-	nojump
 	}
 	
 map PIZR25 "Twenty-Five"
@@ -276,8 +228,6 @@ map PIZR25 "Twenty-Five"
 	enterpic = INTERPIC
 	exitpic = INTERPIC
 	music = d_adrian
-	nocrouch
-	nojump
 	}
 	
 map PIZR26 "Twenty-Six"
@@ -287,8 +237,6 @@ map PIZR26 "Twenty-Six"
 	enterpic = INTERPIC
 	exitpic = INTERPIC
 	music = d_messg2
-	nocrouch
-	nojump
 	}
 	
 map PIZR27 "Twenty-Seven"
@@ -298,8 +246,6 @@ map PIZR27 "Twenty-Seven"
 	enterpic = INTERPIC
 	exitpic = INTERPIC
 	music = d_romer2
-	nocrouch
-	nojump
 	}
 	
 map PIZR28 "Twenty-Eight"
@@ -309,8 +255,6 @@ map PIZR28 "Twenty-Eight"
 	enterpic = INTERPIC
 	exitpic = INTERPIC
 	music = d_tense
-	nocrouch
-	nojump
 	}
 	
 map PIZR29 "Twenty-Nine"
@@ -320,8 +264,6 @@ map PIZR29 "Twenty-Nine"
 	enterpic = INTERPIC
 	exitpic = INTERPIC
 	music = d_shawn3
-	nocrouch
-	nojump
 	}
 	
 map PIZR30 "Thirty"
@@ -330,9 +272,6 @@ map PIZR30 "Thirty"
 	enterpic = INTERPIC
 	exitpic = INTERPIC
 	music = d_openin
-	nocrouch
-	nojump
-    SuckTime = 1337
 	}
 	
 map PIZR31 "Secret One"
@@ -343,8 +282,6 @@ map PIZR31 "Secret One"
 	enterpic = INTERPIC
 	exitpic = INTERPIC
 	music = d_evil
-	nocrouch
-	nojump
 	}
 	
 map PIZR32 "Secret Two"
@@ -354,6 +291,4 @@ map PIZR32 "Secret Two"
 	enterpic = INTERPIC
 	exitpic = INTERPIC
 	music = d_ultima
-	nocrouch
-	nojump
 	}
