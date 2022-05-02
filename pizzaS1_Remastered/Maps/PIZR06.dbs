@@ -113,10 +113,10 @@ maps
 			}
 		}
 		overrideceiltexture = false;
-		viewpositionx = -340.6362f;
-		defaulttoptexture = "BROWN1";
+		viewpositionx = -883.079f;
+		defaulttoptexture = "PSMEW408";
 		overrideceilheight = false;
-		viewpositiony = 482.8907f;
+		viewpositiony = 961.9115f;
 		overridebrightness = false;
 		overridefloortexture = false;
 		
@@ -148,7 +148,7 @@ maps
 			stderriserror = true;
 		}
 		overridebottomtexture = false;
-		defaultbottomtexture = "BROWN1";
+		defaultbottomtexture = "PSMEW408";
 		
 		reloadresourcepostcommand
 		{
@@ -164,12 +164,36 @@ maps
 			exitcodeiserror = true;
 			stderriserror = true;
 		}
-		defaultwalltexture = "BROWN1";
+		defaultwalltexture = "PSMEW408";
 		overridetoptexture = false;
 		customceilheight = 128;
 		overridemiddletexture = false;
 		custombrightness = 196;
-		viewscale = 0.272283f;
+		viewscale = 0.2722783f;
 		scriptcompiler = "zdoom_acs.cfg";
+		
+		scriptdocuments
+		{
+			
+			document0
+			{
+				filename = "DIALOGUE";
+				hash = 3588187714;
+				resource;
+				tabtype = 0;
+				scripttype = 18;
+			}
+			
+			document1
+			{
+				filename = "SCRIPTS";
+				hash = 3469170009;
+				resource;
+				tabtype = 0;
+				scripttype = 1;
+				caretposition = 150;
+				activetab = true;
+			}
+		}
 	}
 }
