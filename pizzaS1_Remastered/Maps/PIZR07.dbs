@@ -95,7 +95,7 @@ maps
 	
 	MAP07
 	{
-		defaultceiltexture = "CEIL5_2";
+		defaultceiltexture = "PSBAF074";
 		overridefloorheight = false;
 		customfloorheight = 0;
 		uselongtexturenames = false;
@@ -122,10 +122,10 @@ maps
 			}
 		}
 		overrideceiltexture = false;
-		viewpositionx = 201.7442f;
-		defaulttoptexture = "LITE5";
+		viewpositionx = -203.6524f;
+		defaulttoptexture = "PSOTW141";
 		overrideceilheight = false;
-		viewpositiony = 210.0085f;
+		viewpositiony = -3693.006f;
 		overridebrightness = false;
 		overridefloortexture = false;
 		
@@ -157,7 +157,7 @@ maps
 			stderriserror = true;
 		}
 		overridebottomtexture = false;
-		defaultbottomtexture = "LITE5";
+		defaultbottomtexture = "PSOTW141";
 		
 		reloadresourcepostcommand
 		{
@@ -173,12 +173,36 @@ maps
 			exitcodeiserror = true;
 			stderriserror = true;
 		}
-		defaultwalltexture = "LITE5";
+		defaultwalltexture = "PSOTW141";
 		overridetoptexture = false;
 		customceilheight = 128;
 		overridemiddletexture = false;
 		custombrightness = 196;
-		viewscale = 0.2141717f;
+		viewscale = 0.7951912f;
 		scriptcompiler = "zdoom_acs.cfg";
+		
+		scriptdocuments
+		{
+			
+			document0
+			{
+				filename = "DIALOGUE";
+				hash = 3588187714;
+				resource;
+				tabtype = 0;
+				scripttype = 18;
+			}
+			
+			document1
+			{
+				filename = "SCRIPTS";
+				hash = 3469170009;
+				resource;
+				tabtype = 0;
+				scripttype = 1;
+				caretposition = 308;
+				activetab = true;
+			}
+		}
 	}
 }
