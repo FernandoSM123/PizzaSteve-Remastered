@@ -5,26 +5,19 @@ strictpatches = 0;
 maps
 {
 	
-	MAP01
+	MAP08
 	{
-		defaultceiltexture = "CEIL1_1";
-		overridefloorheight = false;
-		customfloorheight = 0;
-		uselongtexturenames = false;
+		defaultwalltexture = "PSBW0612";
+		overridemiddletexture = false;
+		defaultceiltexture = "PSBAF359";
+		overrideceiltexture = false;
+		custombrightness = 196;
+		scriptcompiler = "zdoom_acs.cfg";
 		
 		resources
 		{
 			
 			resource0
-			{
-				type = 1;
-				location = "C:\\Users\\Familia Sanchez\\Documents\\fernando\\doom\\PizzaSteve1(Remastered)\\pizzaS1_Remastered";
-				option1 = 0;
-				option2 = 0;
-				notfortesting = 0;
-			}
-			
-			resource1
 			{
 				type = 0;
 				location = "C:\\Users\\Familia Sanchez\\Documents\\fernando\\doom\\doom wads\\DOOM2.WAD";
@@ -32,52 +25,18 @@ maps
 				option2 = 0;
 				notfortesting = 0;
 			}
+			
+			resource1
+			{
+				type = 1;
+				location = "C:\\Users\\Familia Sanchez\\Documents\\fernando\\doom\\PizzaSteve1(Remastered)\\pizzaS1_Remastered";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
 		}
-		overrideceiltexture = false;
-		viewpositionx = -518.4063f;
-		defaulttoptexture = "BROWN1";
-		overrideceilheight = false;
-		viewpositiony = 360.7282f;
-		overridebrightness = false;
-		overridefloortexture = false;
-		
-		grid
-		{
-			backoffsetx = 0;
-			backsource = 0;
-			gridoriginy = 0;
-			backscaley = 100;
-			gridrotate = 0;
-			backscalex = 100;
-			gridoriginx = 0;
-			gridsize = 32;
-			background = "";
-			backoffsety = 0;
-		}
-		
-		reloadresourceprecommand
-		{
-			autocloseonsuccess = true;
-			exitcodeiserror = true;
-			stderriserror = true;
-		}
-		
-		testpostcommand
-		{
-			autocloseonsuccess = true;
-			exitcodeiserror = true;
-			stderriserror = true;
-		}
-		overridebottomtexture = false;
-		defaultbottomtexture = "BROWN1";
-		
-		reloadresourcepostcommand
-		{
-			autocloseonsuccess = true;
-			exitcodeiserror = true;
-			stderriserror = true;
-		}
-		defaultfloortexture = "FLOOR0_1";
+		viewpositiony = -662.5298f;
+		viewpositionx = -1321.315f;
 		
 		testprecommand
 		{
@@ -85,50 +44,8 @@ maps
 			exitcodeiserror = true;
 			stderriserror = true;
 		}
-		defaultwalltexture = "BROWN1";
-		overridetoptexture = false;
 		customceilheight = 128;
-		overridemiddletexture = false;
-		custombrightness = 196;
-		viewscale = 0.3801893f;
-		scriptcompiler = "zdoom_acs.cfg";
-	}
-	
-	MAP08
-	{
-		defaultceiltexture = "PSBAF359";
-		overridefloorheight = false;
 		customfloorheight = 0;
-		uselongtexturenames = false;
-		
-		resources
-		{
-			
-			resource0
-			{
-				type = 1;
-				location = "C:\\Users\\Familia Sanchez\\Documents\\fernando\\doom\\PizzaSteve1(Remastered)\\pizzaS1_Remastered";
-				option1 = 0;
-				option2 = 0;
-				notfortesting = 0;
-			}
-			
-			resource1
-			{
-				type = 0;
-				location = "C:\\Users\\Familia Sanchez\\Documents\\fernando\\doom\\doom wads\\DOOM2.WAD";
-				option1 = 0;
-				option2 = 0;
-				notfortesting = 0;
-			}
-		}
-		overrideceiltexture = false;
-		viewpositionx = -2258.531f;
-		defaulttoptexture = "PSBW0612";
-		overrideceilheight = false;
-		viewpositiony = -1052.705f;
-		overridebrightness = false;
-		overridefloortexture = false;
 		
 		grid
 		{
@@ -143,6 +60,7 @@ maps
 			background = "";
 			backoffsety = 0;
 		}
+		viewscale = 3.870773f;
 		
 		reloadresourceprecommand
 		{
@@ -150,6 +68,12 @@ maps
 			exitcodeiserror = true;
 			stderriserror = true;
 		}
+		defaulttoptexture = "PSBW0612";
+		overridebottomtexture = false;
+		defaultbottomtexture = "PSBW0612";
+		defaultfloortexture = "PSBAF097";
+		overrideceilheight = false;
+		overridebrightness = false;
 		
 		testpostcommand
 		{
@@ -157,8 +81,10 @@ maps
 			exitcodeiserror = true;
 			stderriserror = true;
 		}
-		overridebottomtexture = false;
-		defaultbottomtexture = "PSBW0612";
+		overridefloorheight = false;
+		overridetoptexture = false;
+		uselongtexturenames = false;
+		overridefloortexture = false;
 		
 		reloadresourcepostcommand
 		{
@@ -166,21 +92,6 @@ maps
 			exitcodeiserror = true;
 			stderriserror = true;
 		}
-		defaultfloortexture = "PSBAF097";
-		
-		testprecommand
-		{
-			autocloseonsuccess = true;
-			exitcodeiserror = true;
-			stderriserror = true;
-		}
-		defaultwalltexture = "PSBW0612";
-		overridetoptexture = false;
-		customceilheight = 128;
-		overridemiddletexture = false;
-		custombrightness = 196;
-		viewscale = 0.3801809f;
-		scriptcompiler = "zdoom_acs.cfg";
 		
 		scriptdocuments
 		{
@@ -201,8 +112,8 @@ maps
 				resource;
 				tabtype = 0;
 				scripttype = 1;
-				caretposition = 599;
-				firstvisibleline = 20;
+				caretposition = 210;
+				firstvisibleline = 12;
 				activetab = true;
 			}
 		}
