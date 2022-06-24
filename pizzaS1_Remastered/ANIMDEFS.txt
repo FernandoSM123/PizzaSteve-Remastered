@@ -206,6 +206,19 @@ switch PsSw80 off sound Switch2 pic PsSw79 tics 0
 switch PsSw81 on sound Switch1 pic PsSw82 tics 0
 switch PsSw82 off sound Switch2 pic PsSw81 tics 0
 
+//Marble switches
+
+switch Sw95 on sound Switch1 pic Sw96 tics 0
+switch Sw96 off sound Switch2 pic Sw95 tics 0
+
+switch Sw97 on sound Switch1 pic Sw98 tics 0
+switch Sw98 off sound Switch2 pic Sw97 tics 0
+
+switch Sw99 on sound Switch1 pic Sw100 tics 0
+switch Sw100 off sound Switch2 pic Sw99 tics 0
+
+
+
 //Arrow Switch (Up)
 switch PsSw91 on sound Switch1 pic PsSw92 tics 0
 switch PsSw92 off sound Switch2 pic PsSw91 tics 0
