@@ -113,10 +113,10 @@ maps
 			}
 		}
 		overrideceiltexture = false;
-		viewpositionx = -2712.39f;
+		viewpositionx = -1182.572f;
 		defaulttoptexture = "PSLIW325";
 		overrideceilheight = false;
-		viewpositiony = 3410.06f;
+		viewpositiony = 1314.57f;
 		overridebrightness = false;
 		overridefloortexture = false;
 		
@@ -169,7 +169,7 @@ maps
 		customceilheight = 128;
 		overridemiddletexture = false;
 		custombrightness = 196;
-		viewscale = 0.2723328f;
+		viewscale = 0.2094857f;
 		scriptcompiler = "zdoom_acs.cfg";
 		
 		scriptdocuments
