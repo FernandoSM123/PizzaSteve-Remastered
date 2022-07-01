@@ -113,10 +113,10 @@ maps
 			}
 		}
 		overrideceiltexture = false;
-		viewpositionx = -1182.572f;
+		viewpositionx = 715.9988f;
 		defaulttoptexture = "PSLIW325";
 		overrideceilheight = false;
-		viewpositiony = 1314.57f;
+		viewpositiony = 206.459f;
 		overridebrightness = false;
 		overridefloortexture = false;
 		
@@ -129,7 +129,7 @@ maps
 			gridrotate = 0;
 			backscalex = 100;
 			gridoriginx = 0;
-			gridsize = 8;
+			gridsize = 16;
 			background = "";
 			backoffsety = 0;
 		}
@@ -169,7 +169,7 @@ maps
 		customceilheight = 128;
 		overridemiddletexture = false;
 		custombrightness = 196;
-		viewscale = 0.2094857f;
+		viewscale = 0.5337845f;
 		scriptcompiler = "zdoom_acs.cfg";
 		
 		scriptdocuments
@@ -191,7 +191,8 @@ maps
 				resource;
 				tabtype = 0;
 				scripttype = 1;
-				caretposition = 536;
+				caretposition = 325;
+				firstvisibleline = 9;
 				activetab = true;
 			}
 		}
