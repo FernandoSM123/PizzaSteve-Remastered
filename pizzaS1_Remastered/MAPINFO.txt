@@ -3,7 +3,7 @@ name = "Pizza Steve"
 }
 
 
-map PIZR01 "One"
+map PIZR01 "Staging Point"
 	{
 	next = "PIZR02"
 	sky1 = RSKY1
@@ -12,7 +12,7 @@ map PIZR01 "One"
 	music = d_runnin
 	}
 	
-map PIZR02 "Two"
+map PIZR02 "Underground Base"
 	{
 	next = "PIZR03"
 	sky1 = RSKY1
@@ -21,7 +21,7 @@ map PIZR02 "Two"
 	music = d_stalks
 	}
 	
-map PIZR03 "Three"
+map PIZR03 "True Colors"
 	{
 	next = "PIZR04"
 	sky1 = RSKY1
@@ -30,7 +30,7 @@ map PIZR03 "Three"
 	music = d_countd
 	}
 	
-map PIZR04 "Four"
+map PIZR04 "Sorrounded"
 	{
 	next = "PIZR05"
 	sky1 = RSKY1
@@ -39,7 +39,7 @@ map PIZR04 "Four"
 	music = d_betwee
 	}
 	
-map PIZR05 "Five"
+map PIZR05 "Science Facilty"
 	{
 	next = "PIZR06"
 	sky1 = RSKY1
@@ -48,7 +48,7 @@ map PIZR05 "Five"
 	music = d_doom
 	}
 	
-map PIZR06 "Six"
+map PIZR06 "Storage Area"
 	{
 	next = "PIZR07"
 	sky1 = RSKY1
@@ -57,7 +57,7 @@ map PIZR06 "Six"
 	music = d_the_da
 	}
 	
-map PIZR07 "Seven"
+map PIZR07 "Dead More Simple"
 	{
 	next = "PIZR08"
 	map07special
@@ -67,7 +67,7 @@ map PIZR07 "Seven"
 	music = d_shawn	
 	}
 	
-map PIZR08 "Eight"
+map PIZR08 "Communication Station"
 	{
 	next = "PIZR09"
 	sky1 = RSKY1
@@ -76,7 +76,7 @@ map PIZR08 "Eight"
 	music = d_ddtblu
 	}
 	
-map PIZR09 "Nine"
+map PIZR09 "Black Fortress"
 	{
 	next = "PIZR10"
 	sky1 = RSKY1
@@ -85,7 +85,7 @@ map PIZR09 "Nine"
 	music = d_in_cit
 	}
 	
-map PIZR10 "Ten"
+map PIZR10 "Cyberdemon's Lair"
 	{
 	next = "PIZR11"
 	sky1 = RSKY1
