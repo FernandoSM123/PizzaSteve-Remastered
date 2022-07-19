@@ -30,7 +30,7 @@ map PIZR03 "True Colors"
 	music = d_countd
 	}
 	
-map PIZR04 "Sorrounded"
+map PIZR04 "Surrounded"
 	{
 	next = "PIZR05"
 	sky1 = RSKY1
