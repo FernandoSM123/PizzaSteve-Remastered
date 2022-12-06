@@ -1,5 +1,5 @@
 type = "Doom Builder Map Settings Configuration";
-gameconfig = "Boom_Doom2Doom.cfg";
+gameconfig = "GZDoom_DoomUDMF.cfg";
 strictpatches = 0;
 
 maps
@@ -9,7 +9,7 @@ maps
 	{
 		defaultwalltexture = "STARTAN2";
 		overridemiddletexture = false;
-		defaultceiltexture = "CEIL1_1";
+		defaultceiltexture = "PSBAF158";
 		overrideceiltexture = false;
 		custombrightness = 196;
 		
@@ -23,10 +23,31 @@ maps
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
+				requiredarchives = "";
+			}
+			
+			resource1
+			{
+				type = 1;
+				location = "C:\\Users\\Familia Sanchez\\Documents\\fernando\\doom\\PizzaSteve1(Remastered)\\pizzaS1_Remastered";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+			
+			resource2
+			{
+				type = 2;
+				location = "C:\\Users\\Familia Sanchez\\Documents\\fernando\\doom\\doom wads\\gzdoom.pk3";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 1;
+				requiredarchives = "gzdoom";
 			}
 		}
-		viewpositiony = 7292.809f;
-		viewpositionx = 1623.851f;
+		viewpositiony = -1625.073f;
+		viewpositionx = 200.5167f;
 		
 		testprecommand
 		{
@@ -50,7 +71,7 @@ maps
 			background = "";
 			backoffsety = 0;
 		}
-		viewscale = 0.4231229f;
+		viewscale = 0.9295986f;
 		
 		reloadresourceprecommand
 		{
@@ -61,7 +82,7 @@ maps
 		defaulttoptexture = "STARTAN2";
 		overridebottomtexture = false;
 		defaultbottomtexture = "STARTAN2";
-		defaultfloortexture = "FLOOR0_1";
+		defaultfloortexture = "PSBAF159";
 		overrideceilheight = false;
 		overridebrightness = false;
 		
@@ -82,5 +103,6 @@ maps
 			exitcodeiserror = true;
 			stderriserror = true;
 		}
+		scriptcompiler = "zdoom_acs.cfg";
 	}
 }
