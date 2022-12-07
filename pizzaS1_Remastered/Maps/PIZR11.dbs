@@ -7,7 +7,7 @@ maps
 	
 	MAP01
 	{
-		defaultwalltexture = "STARTAN2";
+		defaultwalltexture = "PSBW0243";
 		overridemiddletexture = false;
 		defaultceiltexture = "PSBAF158";
 		overrideceiltexture = false;
@@ -46,8 +46,8 @@ maps
 				requiredarchives = "gzdoom";
 			}
 		}
-		viewpositiony = -1625.073f;
-		viewpositionx = 200.5167f;
+		viewpositiony = 1377.701f;
+		viewpositionx = 362.7552f;
 		
 		testprecommand
 		{
@@ -71,7 +71,7 @@ maps
 			background = "";
 			backoffsety = 0;
 		}
-		viewscale = 0.9295986f;
+		viewscale = 0.250368f;
 		
 		reloadresourceprecommand
 		{
@@ -79,9 +79,9 @@ maps
 			exitcodeiserror = true;
 			stderriserror = true;
 		}
-		defaulttoptexture = "STARTAN2";
+		defaulttoptexture = "PSBW0243";
 		overridebottomtexture = false;
-		defaultbottomtexture = "STARTAN2";
+		defaultbottomtexture = "PSBW0243";
 		defaultfloortexture = "PSBAF159";
 		overrideceilheight = false;
 		overridebrightness = false;
@@ -104,5 +104,29 @@ maps
 			stderriserror = true;
 		}
 		scriptcompiler = "zdoom_acs.cfg";
+		
+		scriptdocuments
+		{
+			
+			document0
+			{
+				filename = "DIALOGUE";
+				hash = 3588187714;
+				resource;
+				tabtype = 0;
+				scripttype = 18;
+			}
+			
+			document1
+			{
+				filename = "SCRIPTS";
+				hash = 3469170009;
+				resource;
+				tabtype = 0;
+				scripttype = 1;
+				caretposition = 329;
+				activetab = true;
+			}
+		}
 	}
 }
