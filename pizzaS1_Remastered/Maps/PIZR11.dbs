@@ -7,7 +7,7 @@ maps
 	
 	MAP01
 	{
-		defaultwalltexture = "PSBW0243";
+		defaultwalltexture = "PSBW0155";
 		overridemiddletexture = false;
 		defaultceiltexture = "PSBAF158";
 		overrideceiltexture = false;
@@ -46,8 +46,8 @@ maps
 				requiredarchives = "gzdoom";
 			}
 		}
-		viewpositiony = 1377.701f;
-		viewpositionx = 362.7552f;
+		viewpositiony = 780.7862f;
+		viewpositionx = 1339.264f;
 		
 		testprecommand
 		{
@@ -71,7 +71,7 @@ maps
 			background = "";
 			backoffsety = 0;
 		}
-		viewscale = 0.250368f;
+		viewscale = 0.3254783f;
 		
 		reloadresourceprecommand
 		{
@@ -79,9 +79,9 @@ maps
 			exitcodeiserror = true;
 			stderriserror = true;
 		}
-		defaulttoptexture = "PSBW0243";
+		defaulttoptexture = "PSBW0155";
 		overridebottomtexture = false;
-		defaultbottomtexture = "PSBW0243";
+		defaultbottomtexture = "PSBW0155";
 		defaultfloortexture = "PSBAF159";
 		overrideceilheight = false;
 		overridebrightness = false;
