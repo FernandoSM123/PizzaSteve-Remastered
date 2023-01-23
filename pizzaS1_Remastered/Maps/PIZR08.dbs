@@ -20,23 +20,35 @@ maps
 			resource0
 			{
 				type = 0;
-				location = "C:\\Users\\Familia Sanchez\\Documents\\fernando\\doom\\doom wads\\DOOM2.WAD";
+				location = "C:\\Users\\F\\Documents\\DOOM\\DOOM2.WAD";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
+				requiredarchives = "";
 			}
 			
 			resource1
 			{
 				type = 1;
-				location = "C:\\Users\\Familia Sanchez\\Documents\\fernando\\doom\\PizzaSteve1(Remastered)\\pizzaS1_Remastered";
+				location = "C:\\Users\\F\\Documents\\Pizza Steve Remastered\\PizzaSteve-Remastered\\pizzaS1_Remastered";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
+				requiredarchives = "";
+			}
+			
+			resource2
+			{
+				type = 2;
+				location = "C:\\Users\\F\\Documents\\DOOM\\gzdoom.pk3";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 1;
+				requiredarchives = "gzdoom";
 			}
 		}
-		viewpositiony = -3381.667f;
-		viewpositionx = -3164.693f;
+		viewpositiony = -348.0352f;
+		viewpositionx = 1199.711f;
 		
 		testprecommand
 		{
@@ -60,7 +72,7 @@ maps
 			background = "";
 			backoffsety = 0;
 		}
-		viewscale = 0.4462368f;
+		viewscale = 0.2031118f;
 		
 		reloadresourceprecommand
 		{
