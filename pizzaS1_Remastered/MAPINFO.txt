@@ -94,7 +94,7 @@ map PIZR10 "Cyberdemon's Lair"
 	music = d_dead	
 	}
 	
-map PIZR11 "Eleven"
+map PIZR11 "Abandoned Factory"
 	{
 	next = "PIZR12"
 	sky1 = RSKY1

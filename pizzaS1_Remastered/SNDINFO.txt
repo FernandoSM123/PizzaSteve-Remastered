@@ -1,0 +1,17 @@
+Fountain/Loop	DSWFOUNT //Water fountain
+FORCEF	FORCEF //force field
+
+//*** DOORS SOUNDS *****
+
+DROPEN1 DROPEN1 //door open sound#1 (default)
+DRCLOSE1 DRCLOSE1 //door close sound#1 (default) 
+
+DROPEN2 DROPEN2 //door open sound#2 (custom#1) 
+
+
+//*** Ambient Sounds *****
+
+$AMBIENT 1 FORCEF POINT CONTINUOUS 1.0
+$AMBIENT 2 Fountain/Loop POINT CONTINUOUS 0.4
+
+

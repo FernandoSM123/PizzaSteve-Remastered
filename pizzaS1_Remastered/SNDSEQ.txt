@@ -1,0 +1,20 @@
+//1-DOOR SEQ (DEFAULT)
+
+:DoorOpenDefault
+   play		DROPEN1
+   nostopcutoff
+end
+
+:DoorCloseDefault
+   play		DRCLOSE1
+   nostopcutoff
+end
+
+
+[Seq1Door
+ Door 0
+ 0  DoorOpenDefault
+ 1  DoorCloseDefault
+ 2  DoorOpenDefault
+ 3  DoorCloseDefault
+]
