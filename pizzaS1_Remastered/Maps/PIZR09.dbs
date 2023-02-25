@@ -97,26 +97,38 @@ maps
 			resource0
 			{
 				type = 0;
-				location = "C:\\Users\\Familia Sanchez\\Documents\\fernando\\doom\\doom wads\\DOOM2.WAD";
+				location = "C:\\Users\\F\\Documents\\DOOM\\DOOM2.WAD";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
+				requiredarchives = "";
 			}
 			
 			resource1
 			{
 				type = 1;
-				location = "C:\\Users\\Familia Sanchez\\Documents\\fernando\\doom\\PizzaSteve1(Remastered)\\pizzaS1_Remastered";
+				location = "C:\\Users\\F\\Documents\\Pizza Steve Remastered\\PizzaSteve-Remastered\\pizzaS1_Remastered";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
+				requiredarchives = "";
+			}
+			
+			resource2
+			{
+				type = 2;
+				location = "C:\\Users\\F\\Documents\\DOOM\\gzdoom.pk3";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 1;
+				requiredarchives = "gzdoom";
 			}
 		}
 		overrideceiltexture = false;
-		viewpositionx = -4467.65f;
+		viewpositionx = 721.0338f;
 		defaulttoptexture = "PSLIW325";
 		overrideceilheight = false;
-		viewpositiony = 1523.383f;
+		viewpositiony = 3664.546f;
 		overridebrightness = false;
 		overridefloortexture = false;
 		
@@ -169,7 +181,7 @@ maps
 		customceilheight = 128;
 		overridemiddletexture = false;
 		custombrightness = 196;
-		viewscale = 0.3158483f;
+		viewscale = 1.981898f;
 		scriptcompiler = "zdoom_acs.cfg";
 		
 		scriptdocuments

@@ -47,8 +47,8 @@ maps
 				requiredarchives = "gzdoom";
 			}
 		}
-		viewpositiony = 276.8352f;
-		viewpositionx = -2048.781f;
+		viewpositiony = -1555.104f;
+		viewpositionx = -2983.262f;
 		
 		testprecommand
 		{
@@ -68,11 +68,11 @@ maps
 			gridrotate = 0;
 			backscalex = 100;
 			gridoriginx = 0;
-			gridsize = 8;
+			gridsize = 16;
 			background = "";
 			backoffsety = 0;
 		}
-		viewscale = 0.6939194f;
+		viewscale = 2.576472f;
 		
 		reloadresourceprecommand
 		{
