@@ -1,5 +1,5 @@
 type = "Doom Builder Map Settings Configuration";
-gameconfig = "Boom_Doom2Doom.cfg";
+gameconfig = "GZDoom_DoomUDMF.cfg";
 strictpatches = 0;
 
 maps
@@ -17,18 +17,39 @@ maps
 			
 			resource0
 			{
-				type = 0;
-				location = "C:\\Users\\Familia Sanchez\\Documents\\fernando\\doom\\doom wads\\DOOM2.WAD";
+				type = 1;
+				location = "C:\\Users\\bfgf1\\Documents\\PizzaSteve Remastered\\PizzaSteve-Remastered\\pizzaS1_Remastered";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
+				requiredarchives = "";
+			}
+			
+			resource1
+			{
+				type = 0;
+				location = "C:\\Users\\bfgf1\\Documents\\DOOM\\DOOM2.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+			
+			resource2
+			{
+				type = 2;
+				location = "C:\\Users\\bfgf1\\Documents\\DOOM\\gzdoom.pk3";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 1;
+				requiredarchives = "gzdoom";
 			}
 		}
 		overrideceiltexture = false;
-		viewpositionx = -192f;
-		defaulttoptexture = "BROWNHUG";
+		viewpositionx = -699.9662f;
+		defaulttoptexture = "PSMEW368";
 		overrideceilheight = false;
-		viewpositiony = 320f;
+		viewpositiony = 288.325f;
 		overridebrightness = false;
 		overridefloortexture = false;
 		
@@ -41,7 +62,7 @@ maps
 			gridrotate = 0;
 			backscalex = 100;
 			gridoriginx = 0;
-			gridsize = 32;
+			gridsize = 8;
 			background = "";
 			backoffsety = 0;
 		}
@@ -60,7 +81,7 @@ maps
 			stderriserror = true;
 		}
 		overridebottomtexture = false;
-		defaultbottomtexture = "BROWNHUG";
+		defaultbottomtexture = "PSMEW368";
 		
 		reloadresourcepostcommand
 		{
@@ -76,11 +97,12 @@ maps
 			exitcodeiserror = true;
 			stderriserror = true;
 		}
-		defaultwalltexture = "BROWNHUG";
+		defaultwalltexture = "PSMEW368";
 		overridetoptexture = false;
 		customceilheight = 128;
 		overridemiddletexture = false;
 		custombrightness = 196;
-		viewscale = 0.7150776f;
+		viewscale = 3.451541f;
+		scriptcompiler = "zdoom_acs.cfg";
 	}
 }
